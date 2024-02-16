@@ -1,0 +1,38 @@
+.page {
+ font-weight: bold;
+ color: #5e0f9f;
+}
+
+.page-select {
+    border-radius: 7px;
+    padding: 8px 13px;
+}
+
+.input-page {
+    padding: 3px 5px;
+    margin: 4px;
+    border-radius: 5px;
+    border: 1px solid #b4b4b4;
+}
+
+.textarea-page {
+    min-width: 500px;
+    min-height: 250px;
+    padding: 3px 5px;
+    margin: 4px;
+    border-radius: 5px;
+    border: 1px solid #b4b4b4;
+}
+
+.btn-page {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 6px 12px;
+    border: 1px solid #7e7e7e;
+}
+
+.btn-page:hover {
+    background-color: white;
+    color: black;
+}
